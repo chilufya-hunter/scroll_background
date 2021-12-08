@@ -1,6 +1,7 @@
 body, html {
     height: 100%;
     margin: 0;
+    scroll-behavior: smooth;
   }
   .container {
     height: 100%;
@@ -16,18 +17,24 @@ body, html {
 
  /* Adding image to each div */
   .image1 {
-    background-image: url();
+    background-image: url(./images/waterfall\ \(1\)back\ .jpg);
   }
   .image2 {
-    background-image: url();
+    background-image: url(./images/ian-mcgrory-back.jpg);
   }
   .image3 {
-    background-image: url();
+    background-image: url(./images/waterfall\ back.jpg);
   }
   .image4 {
-    background-image: url();
+    background-image: url(./images/waterfall\ \(3\).jpg);
   }
-  .text {
+  .image5 {
+    background-image: url(./images/birger-strahl-Suaoofu6DXM-unsplash.jpg);
+  }
+  .image6 {
+    background-image: url(./images/girafe-g14dd9b2c6_1920.jpg);
+  }
+  .text1 {
      font-size: 30px;
      top: 30%;
      height: 50%;
@@ -39,3 +46,27 @@ body, html {
      text-align: center;
      
   }
+  .text2 {
+    font-size: 30px;
+    top: 30%;
+    height: 50%;
+    left: 30%;
+    padding: 16px;
+    background-color: rgba(125,145,244,0.4);
+    color: white;
+    width: 100%;
+    text-align: center;
+    
+ }
+ .text3,.text4,.text5,.text6 {
+    font-size: 30px;
+    top: 30%;
+    height: 50%;
+    left: 30%;
+    padding: 16px;
+    background-color: rgba(125,145,244,0.4);
+    color: white;
+    width: 100%;
+    text-align: center;
+    
+ }
