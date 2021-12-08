@@ -35,38 +35,50 @@ body, html {
     background-image: url(./images/girafe-g14dd9b2c6_1920.jpg);
   }
   .text1 {
-     font-size: 30px;
+     font-size: 20px;
      top: 30%;
      height: 50%;
      left: 30%;
      padding: 16px;
-     background-color: rgba(125,145,244,0.4);
-     color: white;
+     background-color: rgba(224, 226, 235, 0.4);
      width: 100%;
      text-align: center;
+     height: 50%;
+     background-position: center;
+     text-decoration: black;
+     align-items: center;
      
   }
+  
   .text2 {
-    font-size: 30px;
+    font-size: 20px;
     top: 30%;
     height: 50%;
     left: 30%;
     padding: 16px;
-    background-color: rgba(125,145,244,0.4);
-    color: white;
+    background-color: rgba(224, 226, 235, 0.4);
     width: 100%;
     text-align: center;
+    height: 50%;
+    background-position: center;
+    text-decoration: black;
+    align-items: center;
+    
     
  }
  .text3,.text4,.text5,.text6 {
-    font-size: 30px;
-    top: 30%;
-    height: 50%;
-    left: 30%;
-    padding: 16px;
-    background-color: rgba(125,145,244,0.4);
-    color: white;
-    width: 100%;
-    text-align: center;
+    font-size: 20px;
+     top: 30%;
+     height: 50%;
+     left: 30%;
+     padding: 16px;
+     background-color: rgba(224, 226, 235, 0.4);
+     width: 100%;
+     text-align: center;
+     height: 50%;
+     background-position: center;
+     text-decoration: black;
+     align-items: center;
+     
     
  }
