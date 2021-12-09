@@ -35,7 +35,7 @@ body, html {
     background-image: url(./images/girafe-g14dd9b2c6_1920.jpg);
   }
   .text1 {
-     font-size: 20px;
+     font-size: 17px;
      top: 30%;
      height: 50%;
      left: 30%;
@@ -57,7 +57,7 @@ pre {
   background-color: #f5f5f5;
   padding: 1em;
   overflow: auto;
- 
+ text-align: justify;
   left: 0%;
   right: 0%;
 }
